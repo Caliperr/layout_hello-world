@@ -4,7 +4,7 @@
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Entire_document.png",
-        "test": "..\\bitmaps_test\\20240511-030244\\Entire_document.png",
+        "test": "..\\bitmaps_test\\20240511-051820\\Entire_document.png",
         "selector": "document",
         "fileName": "Entire_document.png",
         "label": "Entire document",
@@ -20,9 +20,7 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.26,
-          "misMatchPercentage": "0.26",
-          "analysisTime": 12
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
